@@ -8,11 +8,13 @@ Este repositório centraliza minhas conquistas acadêmicas e profissionais na á
 
 | Certificação | Sigla | Orgão Emissor | Nível | Verificação |
 | :--- | :---: | :--- | :---: | :---: |
-| **Certified Tester Foundation Level** | **CTFL** | BSTQB / ISTQB | Fundamentos | [Visualizar] |
-| **CTFL - Agile Tester** | **CTFL-AT** | BSTQB / ISTQB | Especialista | [Visualizar] |
-| **Accredited Software Testing Fundamentals** | **ASTFC** | AICS® | Fundamentos | [Visualizar] |
-|**Scrum Fundamentals Certified** | **SFC™** | ScrumStudy | Fundamentos | [Visualizar] 
-| **Kanban Essentials Professional (KEPC™)** | Kanbanstudy | Fundamentos | [Visualizar] 
+| **Certified Tester Foundation Level** | **CTFL** | BSTQB / ISTQB | Fundamentos | [🖼️ Visualizar](./img/CTFL.png) |
+| **CTFL - Agile Tester** | **CTFL-AT** | BSTQB / ISTQB | Especialista | [🖼️ Visualizar](./img/CTFL-AT.png) |
+| **Accredited Software Testing Fundamentals** | **ASTFC** | AICS® | Fundamentos | [🖼️ Visualizar](./img/Accredited%20Software%20Testing%20Fundamentals%20Certification.png) |
+| **Scrum Fundamentals Certified** | **SFC™** | ScrumStudy | Fundamentos | [🖼️ Visualizar](./img/SFC.jpg) |
+| **Kanban Essentials Professional (KEPC™)** | **KEPC™** | Kanbanstudy | Fundamentos | [🖼️ Visualizar](./img/Kanban_essentials.png) |
+
+
 ---
 
 ## ☁️ Cloud & Infraestrutura (Em Progresso)
