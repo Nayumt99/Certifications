@@ -12,6 +12,7 @@ Este repositório centraliza minhas conquistas acadêmicas e profissionais na á
 | **CTFL - Agile Tester** | **CTFL-AT** | BSTQB / ISTQB | Especialista | [Visualizar] |
 | **Accredited Software Testing Fundamentals** | **ASTFC** | AICS® | Fundamentos | [Visualizar] |
 |**Scrum Fundamentals Certified** | **SFC™** | ScrumStudy | Fundamentos | [Visualizar] 
+| **Kanban Essentials Professional (KEPC™)** | Kanbanstudy | Fundamentos | [Visualizar] 
 ---
 
 ## ☁️ Cloud & Infraestrutura (Em Progresso)
